@@ -1,0 +1,49 @@
+{
+  "title": "Photo",
+  "CoverPictureList": [
+    {
+      "id": 1,
+      "url": "https://img2.imgtp.com/2024/05/10/hEhdjxDO.jpg",
+      "type": "heying",
+      "title": "我们的合照"
+    },
+    {
+      "id": 2,
+      "url": "https://img2.imgtp.com/2024/05/13/VUVTO47y.jpg",
+      "type": "qianshou",
+      "title": "一起牵手吧"
+    },
+    {
+      "id": 3,
+      "url": "",
+      "type": "jiewen",
+      "title": "暂无图片哦"
+    },
+    {
+      "id": 4,
+      "url": "https://img2.imgtp.com/2024/05/13/cVwRcidE.jpg",
+      "type": "shenghuo",
+      "title": "生活点滴~"
+    },
+    {
+      "id": 5,
+      "url": "https://img2.imgtp.com/2024/05/13/SoQsMmTa.jpg",
+      "type": "chouzhao",
+      "title": "总有人和你奇奇怪怪"
+    },
+    {
+      "id": 6,
+      "url": "https://img2.imgtp.com/2024/05/13/XDUjD3j0.jpg",
+      "type": "she",
+      "title": "A very beautiful girl"
+    }
+  ],
+  "imageList": [
+    {
+      "id": 3,
+      "text": "Photo three",
+      "url": "https://img2.imgtp.com/2024/05/09/Gwvq1Elw.jpg",
+      "type": "heying"
+    }
+  ]
+}

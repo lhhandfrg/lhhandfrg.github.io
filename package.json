@@ -1,0 +1,25 @@
+{
+  "name": "vitepress-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "deploy:win": "powershell bin/autoDeploy.bat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "element-plus": "^2.7.2",
+    "katex": "^0.16.10",
+    "vitepress": "^1.1.4",
+    "vue": "^3.4.27"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1"
+  }
+}

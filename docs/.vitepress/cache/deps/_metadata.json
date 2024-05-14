@@ -1,0 +1,79 @@
+{
+  "hash": "b9ec9fd4",
+  "configHash": "087ac7da",
+  "lockfileHash": "0eb7406c",
+  "browserHash": "e22ab408",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/.pnpm/vue@3.4.27/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "1754718f",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.1.3_vue@3.4.27/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "30be8ba1",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@10.9.0_vue@3.4.27/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "e041b2bc",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+integrations@10.9.0_async-validator@4.2.5_axios@1.6.8_focus-trap@7.5.4_vue@3.4.27/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "30550292",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "d2adad5c",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../../node_modules/.pnpm/minisearch@6.3.0/node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "eddf3acf",
+      "needsInterop": false
+    },
+    "element-plus": {
+      "src": "../../../../node_modules/.pnpm/element-plus@2.7.2_vue@3.4.27/node_modules/element-plus/es/index.mjs",
+      "file": "element-plus.js",
+      "fileHash": "958239bb",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../../../node_modules/.pnpm/axios@1.6.8/node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "fcd108ec",
+      "needsInterop": false
+    },
+    "@element-plus/icons-vue": {
+      "src": "../../../../node_modules/.pnpm/@element-plus+icons-vue@2.3.1_vue@3.4.27/node_modules/@element-plus/icons-vue/dist/index.js",
+      "file": "@element-plus_icons-vue.js",
+      "fileHash": "81d9d627",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-PPBSB22J": {
+      "file": "chunk-PPBSB22J.js"
+    },
+    "chunk-EXBCOCGV": {
+      "file": "chunk-EXBCOCGV.js"
+    },
+    "chunk-5KPDN6YE": {
+      "file": "chunk-5KPDN6YE.js"
+    },
+    "chunk-4UYR4CBQ": {
+      "file": "chunk-4UYR4CBQ.js"
+    },
+    "chunk-ZS7NZCD4": {
+      "file": "chunk-ZS7NZCD4.js"
+    }
+  }
+}
